@@ -1,4 +1,5 @@
 ﻿/*
+ BY Mazhar Ziadeh, Adnan Jaber, MTE department at KHAS
 
 description:  This program is a simulation of particles collision inside a sphere container, the particles are generated randomly inside the sphere container,
               and they have random velocity, and the particles have a sphere shape, and the container has a sphere shape too, and the particles are bouncing
